@@ -1,0 +1,1 @@
+export { default as ImageUploadModule } from './components/ImageUploadModule'
